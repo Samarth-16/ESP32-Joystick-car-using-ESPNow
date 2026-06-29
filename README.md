@@ -1,8 +1,8 @@
-\# ESP-NOW 2WD RC Car
+\# ESP-NOW 4WD RC Car
 
 
 
-An ESP32-powered, 2-wheel drive (2WD) RC car controlled wirelessly via \*\*ESP-NOW\*\* using a second ESP32 equipped with an analog joystick module.
+An ESP32-powered, 4-wheel drive (4WD) RC car controlled wirelessly via \*\*ESP-NOW\*\* using a second ESP32 equipped with an analog joystick module.
 
 
 
@@ -28,7 +28,7 @@ An ESP32-powered, 2-wheel drive (2WD) RC car controlled wirelessly via \*\*ESP-N
 
 \* 1 × L298N Motor Driver
 
-\* 2 × DC Gear Motors (2WD Chassis)
+\* 4 × DC Gear Motors (4WD Chassis)
 
 \* 1 × 7.4V Li-ion battery pack (or 2×18650 cells)
 
